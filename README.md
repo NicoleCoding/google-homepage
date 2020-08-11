@@ -1,0 +1,3 @@
+This project is about creating a clone of the Google page. 
+
+In this project I learned to position the various objects and also obtained some problem solving skills, as I had to find out how to accomplish certain things on the page. For example how to center objects on the page and how to insert icons in an input field. I did have previous experience with HTML and CSS when working with this project so it was more practice. 
